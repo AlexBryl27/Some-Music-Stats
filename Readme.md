@@ -1,4 +1,5 @@
-Some Music Statistics
+Some Music Statistics.
+
 В проекте показаны различные примеры сбора некоторых статистических данных с использованием API портала Last.fm. 
 Полученные данные при необходимости сводятся в таблицы, выводятся диаграммы.
 
@@ -9,8 +10,4 @@ Some Music Statistics
 то практическую пользу от этого исследования выявлять не требуется.
 
 Использовал библиотеки:
-requests
-json
-matplotlib
-csv
-pandas
+requests, json, matplotlib, csv, pandas.
